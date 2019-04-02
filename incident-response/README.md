@@ -1,7 +1,7 @@
 # Databricks Incident Response Documentation
 This is a public version of the Incident Response process used at Databricks. It is also used to prepare new employees for on-call responsibilities, and provides information not only on preparing for an incident, but also what to do during and after. See the [about page](docs/about.md) for more information on what this documentation is and why it exists.
 
-You can view the documentation [directly](/docs/index.md) in this repository, or rendered as a website at https://response.databricks.com.
+You can view the documentation [directly](https://github.com/databricks/security-docs/blob/master/incident-response/docs/index.md) in this repository, or rendered as a website at (TBD) https://response.databricks.com.
 
 [![databricks Incident Response Documentation](screenshot.png)](https://response.databricks.com)
 
