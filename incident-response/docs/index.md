@@ -1,5 +1,4 @@
----
-cover: assets/img/covers/incident_response_docs.png
+
 ---
 ![Incident Response at Databricks](./assets/img/headers/databricks_ir.jpg)
 
